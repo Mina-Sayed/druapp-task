@@ -201,11 +201,3 @@ pnpm start:dev
 ## Contributing
 Please read our contributing guidelines before submitting pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-For support, please email support@mediconnect.com or create an issue in the repository.
-
----
-© 2024 MediConnect. All rights reserved. 
