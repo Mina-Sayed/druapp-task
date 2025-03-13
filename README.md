@@ -152,8 +152,8 @@ MediConnect is a modern, secure healthcare platform designed to streamline medic
 ### Installation
 1. Clone the repository
 ```bash
-git clone [repository-url]
-cd mediconnect
+git clone https://github.com/Mina-Sayed/druapp-task/
+cd druapp-task
 ```
 
 2. Install dependencies
